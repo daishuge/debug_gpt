@@ -2,7 +2,6 @@ import subprocess
 import re
 import openai
 import time
-import os
 
 def terminal(command):    # terminal("ipconfig")
     #传入终端命令,返回终端输出
